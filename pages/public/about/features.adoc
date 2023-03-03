@@ -3,12 +3,7 @@ title:                                  JekyllOne Theme
 tagline:                                Learn J1 Features
 date:                                   2022-12-31 00:00:00
 description: >
-                                        JekyllOne Theme is a website template for the static
-                                        site generator Jekyll. The Theme is free to use and
-                                        can be downloaded at RubyGems as a Ruby Gem. The
-                                        Theme supports a wide range of websites, from a personal
-                                        website, a blog web, a documentation site to classic
-                                        company webs.
+                                        Lorem ipsum door mijzelf
 
 keywords: >
                                         Jekyll, Theme, JekyllOne, J1, Theme, Features
